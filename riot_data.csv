@@ -1,11 +1,11 @@
 event,date,period,location,city,max_day_temp,rainfall
-1958 Notting Hill Race Riots,1958-08-30,Start,Notting Hill, London,22,0
-1958 Notting Hill Race Riots,1958-08-31,During,Notting Hill, London,24,0.6
-1958 Notting Hill Race Riots,1958-09-01,During,Notting Hill, London,24,0
-1958 Notting Hill Race Riots,1958-09-02,During,Notting Hill, London,23,0
-1958 Notting Hill Race Riots,1958-09-03,During,Notting Hill, London,23,3
-1958 Notting Hill Race Riots,1958-09-04,During,Notting Hill, London,24,0.1
-1958 Notting Hill Race Riots,1958-09-05,End,Notting Hill, London,24,3
+1958 Notting Hill Riots,1958-08-30,Start,Notting Hill, London,22,0
+1958 Notting Hill Riots,1958-08-31,During,Notting Hill, London,24,0.6
+1958 Notting Hill Riots,1958-09-01,During,Notting Hill, London,24,0
+1958 Notting Hill Riots,1958-09-02,During,Notting Hill, London,23,0
+1958 Notting Hill Riots,1958-09-03,During,Notting Hill, London,23,3
+1958 Notting Hill Riots,1958-09-04,During,Notting Hill, London,24,0.1
+1958 Notting Hill Riots,1958-09-05,End,Notting Hill, London,24,3
 1981 Brixton Riots,1981-04-10,Start,Brixton, London,22,0
 1981 Brixton Riots,1981-04-11,During,Brixton, London,20,0
 1981 Brixton Riots,1981-04-12,End,Brixton,London,17,0

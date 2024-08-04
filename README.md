@@ -6,6 +6,6 @@ https://www.metoffice.gov.uk/research/library-and-archive/publications/daily-wea
 Temperature is maximum daytime observation. Rainfall is daytime observation. 
 For the England Riots I used
 the median England temperature and rainfall as these riots occurred in multiple
-locations. But it was esssentially warm and dry throughout England in that period.
+locations. But it was essentially warm and dry throughout England in that period.
 
 ![](uk-riot-weather-2024-08-04.png)
