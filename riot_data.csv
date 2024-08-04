@@ -1,0 +1,34 @@
+event,date,period,location,city,max_day_temp,rainfall
+1958 Notting Hill Race Riots,1958-08-30,Start,Notting Hill, London,22,0
+1958 Notting Hill Race Riots,1958-08-31,During,Notting Hill, London,24,0.6
+1958 Notting Hill Race Riots,1958-09-01,During,Notting Hill, London,24,0
+1958 Notting Hill Race Riots,1958-09-02,During,Notting Hill, London,23,0
+1958 Notting Hill Race Riots,1958-09-03,During,Notting Hill, London,23,3
+1958 Notting Hill Race Riots,1958-09-04,During,Notting Hill, London,24,0.1
+1958 Notting Hill Race Riots,1958-09-05,End,Notting Hill, London,24,3
+1981 Brixton Riots,1981-04-10,Start,Brixton, London,22,0
+1981 Brixton Riots,1981-04-11,During,Brixton, London,20,0
+1981 Brixton Riots,1981-04-12,End,Brixton,London,17,0
+1981 Toxteth Riots,1981-07-03,Start,Toxteth, Liverpool, 16, 0
+1981 Toxteth Riots,1981-07-04,During,Toxteth, Liverpool,17,0
+1981 Toxteth Riots,1981-07-05,During,Toxteth, Liverpool, 19,3
+1981 Toxteth Riots,1981-07-06,During,Toxteth, Liverpool,17,0
+1981 Toxteth Riots,1981-07-07,During,Toxteth, Liverpool,20,0
+1981 Toxteth Riots,1981-07-08,During,Toxteth, Liverpool,21,0
+1981 Toxteth Riots,1981-07-09,During,Toxteth, Liverpool,18,0
+1981 Toxteth Riots,1981-07-10,During,Toxteth, Liverpool,21,0
+1981 Toxteth Riots,1981-07-11,During,Toxteth, Liverpool,15,0
+1985 Handsworth Riots,1985-09-09,Start,Handsworth, Birmingham,20,0
+1985 Handsworth Riots,1985-09-10,During,Handsworth, Birmingham,21,0
+1985 Handsworth Riots,1985-09-11,End,Handsworth, Birmingham,23,0
+1985 Broadwater Farm Riot,1985-10-06,Start,Tottenham, London,20,0
+1990 Poll Tax Riots,1990-03-31,Start,Central London,London,19,0
+2001 Bradford Riots,2001-07-07,Start,Bradford, West Yorkshire,22,2
+2001 Bradford Riots,2001-07-08,During,Bradford, West Yorkshire,20,0
+2001 Bradford Riots,2001-07-09,End,Bradford, West Yorkshire,20,0
+2011 England Riots,2011-08-06,Start,Multiple cities across England,England,23,0
+2011 England Riots,2011-08-07,During,Multiple cities across England,England,20,0
+2011 England Riots,2011-08-08,During,Multiple cities across England,England,22,0
+2011 England Riots,2011-08-09,During,Multiple cities across England,England,22,0
+2011 England Riots,2011-08-10,During,Multiple cities across England,England,23,1
+2011 England Riots,2011-08-11,End,Multiple cities across England,England,23,2
