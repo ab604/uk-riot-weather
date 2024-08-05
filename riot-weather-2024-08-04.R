@@ -22,7 +22,7 @@ p <- df |>
   facet_wrap(~event, scales = "free_x") +
   scale_y_continuous(
          expression("Max. Daytime Temperature " ( degree*C)), 
-         sec.axis = sec_axis(~ ., name = "Precipitation (mm)")
+         sec.axis = sec_axis(~ ., name = "Daytime Precipitation (mm)")
        ) +
   theme_minimal() +
   theme(legend.position = "", 
