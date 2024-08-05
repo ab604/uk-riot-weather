@@ -8,4 +8,4 @@ For the England Riots I used
 the median England temperature and rainfall as these riots occurred in multiple
 locations. But it was essentially warm and dry throughout England in that period.
 
-![](uk-riot-weather-2024-08-04.png)
+![](uk-riot-weather-2024-08-05.png)
